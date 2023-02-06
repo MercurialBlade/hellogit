@@ -1,3 +1,5 @@
 Hello Git!!!
 Hello Git Again!!!  Hello Git again and again!!!
 ByeBye!!!          Change in master.
+ByeBye!!!	Change in hot-fix
+
